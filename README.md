@@ -9,3 +9,4 @@ help save your count for a day.
 
 Start working out. When finish, save count in the application.
 Can also, make a exercise plan.
+
